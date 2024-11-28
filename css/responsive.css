@@ -81,5 +81,7 @@
   .footerWrap { overflow-y: hidden;}
   .open .contact { bottom:0 }
 
+  .demo { display:block;}
+
   
 }

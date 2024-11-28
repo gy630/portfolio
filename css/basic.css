@@ -116,6 +116,8 @@ main { }
 .s1 li .info2 { font-size: 14px; font-weight: 300;}
 .s1 li .dots { width: 3px; height: 13px;}
 
+.demo { display:none; }
+
 
 
 /*  s2  */
