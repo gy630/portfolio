@@ -3,8 +3,11 @@
 body { 
   font-family: "Noto Sans KR", sans-serif;
   background: black;
-  color:white
+  color:white;
+  cursor:url('../img/cursor.svg'), auto;
 }
+
+body a { cursor:url('../img/pointer.svg'), auto; }
 
 main { }
 .title { display:none; }
